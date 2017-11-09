@@ -1,4 +1,4 @@
-##README
+## README
 1. Descripción del Proyecto:
 	- Este proyecto contiene ejercicios para reforzar el aprendizaje sobre el recorrido del árbol de nodos HTML (DOM)
 2. Herramientas utilizadas:
